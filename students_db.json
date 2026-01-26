@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Md Habibul Islam",
+        "roll": "200124",
+        "email": "habib@gmail.com",
+        "dept": "CSE",
+        "cgpa": 3.75
+    },
+    {
+        "name": "Nazmus Sakib",
+        "roll": "200103",
+        "email": "sakib@gmail.com",
+        "dept": "Electrical and Electronic Engineering",
+        "cgpa": 3.6
+    },
+    {
+        "name": "Md Josim",
+        "roll": "200101",
+        "email": "jasim@gmail.com",
+        "dept": "Computer Science and Engineering",
+        "cgpa": 3.71
+    },
+    {
+        "name": "Joty",
+        "roll": "200125",
+        "email": "joty@gm.c",
+        "dept": "Computer Science and Engineering",
+        "cgpa": 3.45
+    },
+    {
+        "name": "Mahamudul Hasan",
+        "roll": "200135",
+        "email": "mahmudul@s.pust.ac.bd",
+        "dept": "Mechanical Engineering",
+        "cgpa": 3.55
+    },
+    {
+        "name": "Poly",
+        "roll": "200106",
+        "email": "poly@gm.c",
+        "dept": "CSE",
+        "cgpa": 3.45
+    },
+    {
+        "name": "Ahadul Haque",
+        "roll": "200107",
+        "email": "ahadul@gmail.com",
+        "dept": "Electrical and Electronic Engineering",
+        "cgpa": 3.34
+    }
+]
