@@ -6,13 +6,13 @@ A robust, lightweight Command-Line Interface (Interface) application built with 
 
 - Data Persistence: Records are saved in a students_db.json file, ensuring data isn't lost when the program closes.
 
-Persistent Validation Loops: The system "waits" for correct input (e.g., valid email formats, numeric CGPA) rather than crashing on errors.
+- Persistent Validation Loops: The system "waits" for correct input (e.g., valid email formats, numeric CGPA) rather than crashing on errors.
 
-Dynamic Sorting: View all students automatically sorted by Roll Number.
+- Dynamic Sorting: View all students automatically sorted by Roll Number.
 
-Regex Validation: Strict email verification using Regular Expressions to ensure data integrity.
+- Regex Validation: Strict email verification using Regular Expressions to ensure data integrity.
 
-Safety Confirmations: Specialized "Press Enter" or "y/n" confirmation prompts to prevent accidental data deletion.
+- Safety Confirmations: Specialized "Press Enter" or "y/n" confirmation prompts to prevent accidental data deletion.
 
 ## 🛠️ Technical Stack
 - Language: Python 3.x
