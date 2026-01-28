@@ -2,7 +2,7 @@
 A robust, lightweight Command-Line Interface (Interface) application built with Python for managing student databases. This project was developed as a practice in core Python fundamentals, focusing on data persistence, input validation, and object-oriented design.
 
 ## 🚀 Features
-- Functionality: Add, Update, View, Delete and search student records.
+- Functionality: Add, Update(added from my interest), View, Delete and search student records.
 
 - Data Persistence: Records are saved in a students_db.json file, ensuring data isn't lost when the program closes.
 
@@ -25,6 +25,9 @@ A robust, lightweight Command-Line Interface (Interface) application built with 
 Since this project uses only standard libraries, you only need Python installed:
 
 - Python 3.6 or higher
+## Affiliated
+- Ostad Full Stack Web Development with Python, Django, React & AI (Batch-9) - মডিউল ৬ এর এসাইনমেন্ট
+
 ## How to run this code?
 1. Go to project folder
 2. Open CMD or terminal
