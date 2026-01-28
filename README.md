@@ -26,7 +26,20 @@ Since this project uses only standard libraries, you only need Python installed:
 
 - Python 3.6 or higher
 ## How to run this code?
-1. go to project folder
-2. open CMD or terminal
-3. run this command python main.py
+1. Go to project folder
+2. Open CMD or terminal
+3. Run this command python main.py
 4. Follow the terminal Instruction
+
+
+<img width="829" height="344" alt="Image" src="https://github.com/user-attachments/assets/fcc8bae4-2e47-4073-9aea-ce66db481151" />
+<img width="588" height="859" alt="Image" src="https://github.com/user-attachments/assets/5cfe80e3-178c-45e7-a006-297638e9c261" />
+<img width="1647" height="784" alt="Image" src="https://github.com/user-attachments/assets/fd60cd3b-5b58-48c7-8aad-a4ac8c23f6b0" />
+<img width="1304" height="842" alt="Image" src="https://github.com/user-attachments/assets/79e03b58-f556-4aac-91a5-1aa296c06733" />
+<img width="1300" height="419" alt="Image" src="https://github.com/user-attachments/assets/45c92580-bdfc-4880-be51-e62be622b4a4" />
+<img width="1680" height="968" alt="Image" src="https://github.com/user-attachments/assets/08bcbc01-e18b-4f96-8cd2-79cc223739e8" />
+<img width="1680" height="818" alt="Image" src="https://github.com/user-attachments/assets/7707bdf6-68b1-49d3-a41f-9868c3f043db" />
+<img width="1680" height="767" alt="Image" src="https://github.com/user-attachments/assets/1196c68e-7585-4ec8-97b2-e5ca82d478c3" />
+<img width="1680" height="810" alt="Image" src="https://github.com/user-attachments/assets/e3f74589-2cc9-45bc-81c1-a9c266b08fdb" />
+
+
