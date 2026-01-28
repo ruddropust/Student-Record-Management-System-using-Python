@@ -25,3 +25,8 @@ A robust, lightweight Command-Line Interface (Interface) application built with 
 Since this project uses only standard libraries, you only need Python installed:
 
 - Python 3.6 or higher
+## How to run this code?
+1. go to project folder
+2. open CMD or terminal
+3. run this command python main.py
+4. Follow the terminal Instruction
