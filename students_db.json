@@ -1,51 +1,74 @@
 [
     {
         "name": "Md Habibul Islam",
-        "roll": "200124",
+        "roll": 200124,
+        "cgpa": 3.75,
         "email": "habib@gmail.com",
         "dept": "CSE",
-        "cgpa": 3.75
+        "semester": "5th",
+        "phone": "01712345678"
     },
     {
         "name": "Nazmus Sakib",
-        "roll": "200103",
+        "roll": 200103,
+        "cgpa": 3.6,
         "email": "sakib@gmail.com",
         "dept": "Electrical and Electronic Engineering",
-        "cgpa": 3.6
+        "semester": "4th",
+        "phone": "01600112233"
     },
     {
         "name": "Md Josim",
-        "roll": "200101",
+        "roll": 200101,
+        "cgpa": 3.71,
         "email": "jasim@gmail.com",
         "dept": "Computer Science and Engineering",
-        "cgpa": 3.71
+        "semester": "3rd",
+        "phone": "01899887765"
     },
     {
         "name": "Joty",
-        "roll": "200125",
-        "email": "joty@gm.c",
+        "roll": 200125,
+        "cgpa": 3.45,
+        "email": "joty@gmail.com",
         "dept": "Computer Science and Engineering",
-        "cgpa": 3.45
+        "semester": "3rd",
+        "phone": "01911223344"
     },
     {
         "name": "Mahamudul Hasan",
-        "roll": "200135",
+        "roll": 200135,
+        "cgpa": 3.55,
         "email": "mahmudul@s.pust.ac.bd",
         "dept": "Mechanical Engineering",
-        "cgpa": 3.55
+        "semester": "5th",
+        "phone": "01785432109"
     },
     {
         "name": "Poly",
-        "roll": "200106",
-        "email": "poly@gm.c",
+        "roll": 200106,
+        "cgpa": 3.45,
+        "email": "poly@gmail.com",
         "dept": "CSE",
-        "cgpa": 3.45
+        "semester": "4th",
+        "phone": "01612589632"
     },
     {
         "name": "Ahadul Haque",
-        "roll": "200107",
+        "roll": 200107,
+        "cgpa": 3.34,
         "email": "ahadul@gmail.com",
         "dept": "Electrical and Electronic Engineering",
-        "cgpa": 3.34
+        "semester": "3rd",
+        "phone": "01321436587"
+    },
+    {
+        "name": "Md Mehedi Hasan",
+        "roll": 200140,
+        "cgpa": 3.88,
+        "email": "mehedihasan@gmail.com",
+        "dept": "ICE",
+        "semester": "8th",
+        "phone": "01703689525"
     }
 ]
