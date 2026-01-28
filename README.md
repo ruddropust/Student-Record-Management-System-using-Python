@@ -31,7 +31,7 @@ Since this project uses only standard libraries, you only need Python installed:
 ## How to run this code?
 1. Go to project folder
 2. Open CMD or terminal (under project folder)
-3. Run this command python `main.py`
+3. Run this command `python main.py`
 4. Follow the terminal Instruction
 
 <h2 align="center">Visualization</h2> 
