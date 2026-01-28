@@ -45,12 +45,12 @@
         "phone": "01785432109"
     },
     {
-        "name": "Poly",
+        "name": "Poly Akter",
         "roll": 200106,
-        "cgpa": 3.45,
-        "email": "poly@gmail.com",
+        "cgpa": 3.49,
+        "email": "apoly@gmail.com",
         "dept": "CSE",
-        "semester": "4th",
+        "semester": "8th",
         "phone": "01612589632"
     },
     {
@@ -63,12 +63,12 @@
         "phone": "01321436587"
     },
     {
-        "name": "Md Mehedi Hasan",
+        "name": "Mehedi Hasan Zim",
         "roll": 200140,
-        "cgpa": 3.88,
+        "cgpa": 3.32,
         "email": "mehedihasan@gmail.com",
-        "dept": "ICE",
+        "dept": "CSE",
         "semester": "8th",
-        "phone": "01703689525"
+        "phone": "01788559988"
     }
 ]
